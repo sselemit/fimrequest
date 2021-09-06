@@ -2,22 +2,12 @@
 display:none;
 }
 
-.mat-form-field-label{
-transition:none;
-}
-
-.fa-lg.fas.fa-cloud-download-alt.ng-star-inserted{
-display:none!important;
-}
-
-a.forgot-password.col-md-12.ng-tns-c135-0{
-display:none;
-}
-
+/*change username font size*/
 div.profile-username{
 font-size:3em;
 }
 
+/**/
 a[routerlink="/user-preferences"]{
 pointer-events: none;
 }
@@ -26,7 +16,6 @@ div.profile-img
 {
 display:none!important;
 }
-
 
 
 #search-filter{
